@@ -21,3 +21,18 @@ print(s[5:])
     Similar to s[0:5
 """
 print(s[:5])
+
+
+"""
+    Slicing with step i.e. incrementing value
+    The below will print entire string skipping every second value
+    Expected value: 19715
+"""
+
+print(s[::2])
+
+
+"""
+    Step value can be used to reverse a string by using a -ve step value
+"""
+print(s[::-1])
