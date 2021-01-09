@@ -8,6 +8,7 @@ for num in numbers:
 
 print(even_numbers)
 
+
 # the above loop can be replaced by the line below
 even_num = [num for num in numbers if num % 2 == 0]
 
