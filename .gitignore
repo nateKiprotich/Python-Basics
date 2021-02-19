@@ -1,3 +1,2 @@
-venv/
-.idea/
-__*cache*
+venv/*
+.idea
